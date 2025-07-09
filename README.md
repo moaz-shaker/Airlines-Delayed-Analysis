@@ -2,8 +2,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
-# Airlines Delayed 2008 - Power BI Analysis
-
+# Airlines Delayed 2008 - ( Power BI )
 This project presents a comprehensive analysis of U.S. airline delays in the year 2008. Using Power BI, we explored around 2 million flight records to uncover trends, causes of delays, cancellations, and diversions. The interactive dashboards provide actionable insights for improving airline operations and passenger experience.
 
 ---
